@@ -1,2 +1,2 @@
 #!/bin/sh
-curl -o /tmp/hola.txt https://192.168.132.130:5555/hola.txt
+curl -k  -o /tmp/hola.txt http://192.168.132.130:5555/hola.txt
