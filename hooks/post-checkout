@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "You have been pwned!" > /tmp/cve-2024-10220
+echo "HOLAAAA" > /tmp/cve-2024-10220
