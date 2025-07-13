@@ -1,2 +1,2 @@
 #!/bin/sh
-id > /tmp/poc
+echo "You have been pwned!" > /tmp/cve-2024-10220
